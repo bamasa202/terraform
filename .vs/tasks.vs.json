@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-ec2",
+      "appliesTo": "ec2-instance/ec2.tf",
+      "type": "launch"
+    }
+  ]
+}
